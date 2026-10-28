@@ -14,7 +14,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **04** | [Stack](04_stack/) | 1 | LIFO parentheses matching, state tracking | 🟢 Complete (1/1) |
 | **05** | [Binary Search](05_binary_search/) | 2 | Rotated sorted arrays, inflection point search, logarithmic boundary reduction | 🟢 Complete (2/2) |
 | **06** | [Linked List](06_linked_list/) | 6 | In-place pointer reversal, fast/slow pointers, dummy node pattern, k-way merging | 🟢 Complete (6/6) |
-| **07** | [Trees](07_trees/) | 11 | Recursive DFS, BFS level-order, BST properties, ancestor search, serialization | ⏳ Queued |
+| **07** | [Trees](07_trees/) | 11 | Recursive DFS, BFS level-order, BST properties, ancestor search, serialization | 🟢 Complete (11/11) |
 | **08** | [Tries](08_tries/) | 3 | Prefix trees, character map branches, wildcard matching, matrix DFS pruning | ⏳ Queued |
 | **09** | [Heap / Priority Queue](09_heap_priority_queue/) | 1 | Min-heap / max-heap dual balancing, dynamic median calculation | ⏳ Queued |
 | **10** | [Backtracking](10_backtracking/) | 2 | State tree exploration, candidate pruning, grid search backtracking | ⏳ Queued |
