@@ -12,7 +12,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **02** | [Two Pointers](02_two_pointers/) | 3 | Inward converging boundaries, palindromic symmetry, target-sum reduction | 🟢 Complete (3/3) |
 | **03** | [Sliding Window](03_sliding_window/) | 4 | Dynamic/fixed windows, frequency state tracking, substring invariants | 🟢 Complete (4/4) |
 | **04** | [Stack](04_stack/) | 1 | LIFO parentheses matching, state tracking | 🟢 Complete (1/1) |
-| **05** | [Binary Search](05_binary_search/) | 2 | Rotated sorted arrays, inflection point search, logarithmic boundary reduction | ⏳ Queued |
+| **05** | [Binary Search](05_binary_search/) | 2 | Rotated sorted arrays, inflection point search, logarithmic boundary reduction | 🟢 Complete (2/2) |
 | **06** | [Linked List](06_linked_list/) | 6 | In-place pointer reversal, fast/slow pointers, dummy node pattern, k-way merging | ⏳ Queued |
 | **07** | [Trees](07_trees/) | 11 | Recursive DFS, BFS level-order, BST properties, ancestor search, serialization | ⏳ Queued |
 | **08** | [Tries](08_tries/) | 3 | Prefix trees, character map branches, wildcard matching, matrix DFS pruning | ⏳ Queued |
