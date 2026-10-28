@@ -1,0 +1,76 @@
+"""
+LeetCode 70: Climbing Stairs
+Module: 13_1d_dynamic_programming
+Difficulty: Easy
+Tags: Math, Dynamic Programming, Memoization
+
+PROBLEM DESCRIPTION:
+You are climbing a staircase. It takes n steps to reach the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways
+can you climb to the top?
+
+Example 1:
+    Input: n = 2
+    Output: 2
+    Explanation: There are two ways to climb to the top:
+    1. 1 step + 1 step
+    2. 2 steps
+
+Example 2:
+    Input: n = 3
+    Output: 3
+    Explanation: There are three ways to climb to the top:
+    1. 1 step + 1 step + 1 step
+    2. 1 step + 2 steps
+    3. 2 steps + 1 step
+
+Constraints:
+    * 1 <= n <= 45
+"""
+
+
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        """
+        Calculates distinct ways to climb n stairs using dynamic programming.
+
+        Recurrence:
+        dp[i] = dp[i - 1] + dp[i - 2]
+        Ways to reach step i is the sum of ways from step i-1 (by taking 1 step)
+        and ways from step i-2 (by taking 2 steps). This isomorphic to Fibonacci numbers.
+
+        Time Complexity:  O(N) - Single loop up to n.
+        Space Complexity: O(1) - Two variables track previous states.
+        """
+        if n <= 2:
+            return n
+
+        prev2, prev1 = 1, 2
+        for _ in range(3, n + 1):
+            curr = prev1 + prev2
+            prev2 = prev1
+            prev1 = curr
+
+        return prev1
+
+
+def test_climb_stairs():
+    solver = Solution()
+
+    # Case 1: Base cases
+    assert solver.climbStairs(1) == 1, "Case 1 failed"
+    assert solver.climbStairs(2) == 2, "Case 2 failed"
+
+    # Case 2: Small steps
+    assert solver.climbStairs(3) == 3, "Case 3 failed"
+    assert solver.climbStairs(4) == 5, "Case 4 failed"
+    assert solver.climbStairs(5) == 8, "Case 5 failed"
+
+    # Case 3: Larger step count
+    assert solver.climbStairs(10) == 89, "Case 6 failed"
+
+    print("All solution tests passed successfully!")
+
+
+if __name__ == "__main__":
+    test_climb_stairs()

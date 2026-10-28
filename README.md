@@ -20,7 +20,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **10** | [Backtracking](10_backtracking/) | 2 | State tree exploration, candidate pruning, grid search backtracking | 🟢 Complete (2/2) |
 | **11** | [Graphs](11_graphs/) | 6 | Adjacency lists, cycle detection, topological sorting, union-find (disjoint sets) | 🟢 Complete (6/6) |
 | **12** | [Advanced Graphs](12_advanced_graphs/) | 1 | Topological sort with lexicographical dependency constraints (Alien Dictionary) | 🟢 Complete (1/1) |
-| **13** | [1-D Dynamic Programming](13_1d_dynamic_programming/) | 10 | Recurrence formulations, optimal substructure, space-optimized state variables | ⏳ Queued |
+| **13** | [1-D Dynamic Programming](13_1d_dynamic_programming/) | 10 | Recurrence formulations, optimal substructure, space-optimized state variables | 🟢 Complete (10/10) |
 | **14** | [2-D Dynamic Programming](14_2d_dynamic_programming/) | 2 | 2D grid pathing, longest common subsequence table transitions | ⏳ Queued |
 | **15** | [Greedy](15_greedy/) | 2 | Local optimal choice, Kadane's maximum subarray, reachable index frontiers | ⏳ Queued |
 | **16** | [Intervals](16_intervals/) | 5 | Interval merging, non-overlapping scheduling, sweep-line room allocation | ⏳ Queued |
