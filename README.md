@@ -16,7 +16,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **06** | [Linked List](06_linked_list/) | 6 | In-place pointer reversal, fast/slow pointers, dummy node pattern, k-way merging | 🟢 Complete (6/6) |
 | **07** | [Trees](07_trees/) | 11 | Recursive DFS, BFS level-order, BST properties, ancestor search, serialization | 🟢 Complete (11/11) |
 | **08** | [Tries](08_tries/) | 3 | Prefix trees, character map branches, wildcard matching, matrix DFS pruning | 🟢 Complete (3/3) |
-| **09** | [Heap / Priority Queue](09_heap_priority_queue/) | 1 | Min-heap / max-heap dual balancing, dynamic median calculation | ⏳ Queued |
+| **09** | [Heap / Priority Queue](09_heap_priority_queue/) | 1 | Min-heap / max-heap dual balancing, dynamic median calculation | 🟢 Complete (1/1) |
 | **10** | [Backtracking](10_backtracking/) | 2 | State tree exploration, candidate pruning, grid search backtracking | ⏳ Queued |
 | **11** | [Graphs](11_graphs/) | 6 | Adjacency lists, cycle detection, topological sorting, union-find (disjoint sets) | ⏳ Queued |
 | **12** | [Advanced Graphs](12_advanced_graphs/) | 1 | Topological sort with lexicographical dependency constraints (Alien Dictionary) | ⏳ Queued |
