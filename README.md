@@ -25,7 +25,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **15** | [Greedy](15_greedy/) | 2 | Local optimal choice, Kadane's maximum subarray, reachable index frontiers | 🟢 Complete (2/2) |
 | **16** | [Intervals](16_intervals/) | 5 | Interval merging, non-overlapping scheduling, sweep-line room allocation | 🟢 Complete (5/5) |
 | **17** | [Math & Geometry](17_math_and_geometry/) | 3 | In-place matrix rotations, coordinate boundary stepping, in-place state flags | 🟢 Complete (3/3) |
-| **18** | [Bit Manipulation](18_bit_manipulation/) | 5 | Bitwise XOR cancellation, bit shifts, Hamming weight, 32-bit integer arithmetic | ⏳ Queued |
+| **18** | [Bit Manipulation](18_bit_manipulation/) | 5 | Bitwise XOR cancellation, bit shifts, Hamming weight, 32-bit integer arithmetic | 🟢 Complete (5/5) |
 
 ---
 
