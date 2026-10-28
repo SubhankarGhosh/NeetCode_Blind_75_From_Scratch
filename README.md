@@ -11,7 +11,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **01** | [Arrays & Hashing](01_arrays_and_hashing/) | 8 | Hash tables, frequency counting, prefix products, bucket indexing | 🟢 Complete (8/8) |
 | **02** | [Two Pointers](02_two_pointers/) | 3 | Inward converging boundaries, palindromic symmetry, target-sum reduction | 🟢 Complete (3/3) |
 | **03** | [Sliding Window](03_sliding_window/) | 4 | Dynamic/fixed windows, frequency state tracking, substring invariants | 🟢 Complete (4/4) |
-| **04** | [Stack](04_stack/) | 1 | LIFO parentheses matching, state tracking | ⏳ Queued |
+| **04** | [Stack](04_stack/) | 1 | LIFO parentheses matching, state tracking | 🟢 Complete (1/1) |
 | **05** | [Binary Search](05_binary_search/) | 2 | Rotated sorted arrays, inflection point search, logarithmic boundary reduction | ⏳ Queued |
 | **06** | [Linked List](06_linked_list/) | 6 | In-place pointer reversal, fast/slow pointers, dummy node pattern, k-way merging | ⏳ Queued |
 | **07** | [Trees](07_trees/) | 11 | Recursive DFS, BFS level-order, BST properties, ancestor search, serialization | ⏳ Queued |
