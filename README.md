@@ -18,7 +18,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **08** | [Tries](08_tries/) | 3 | Prefix trees, character map branches, wildcard matching, matrix DFS pruning | 🟢 Complete (3/3) |
 | **09** | [Heap / Priority Queue](09_heap_priority_queue/) | 1 | Min-heap / max-heap dual balancing, dynamic median calculation | 🟢 Complete (1/1) |
 | **10** | [Backtracking](10_backtracking/) | 2 | State tree exploration, candidate pruning, grid search backtracking | 🟢 Complete (2/2) |
-| **11** | [Graphs](11_graphs/) | 6 | Adjacency lists, cycle detection, topological sorting, union-find (disjoint sets) | ⏳ Queued |
+| **11** | [Graphs](11_graphs/) | 6 | Adjacency lists, cycle detection, topological sorting, union-find (disjoint sets) | 🟢 Complete (6/6) |
 | **12** | [Advanced Graphs](12_advanced_graphs/) | 1 | Topological sort with lexicographical dependency constraints (Alien Dictionary) | ⏳ Queued |
 | **13** | [1-D Dynamic Programming](13_1d_dynamic_programming/) | 10 | Recurrence formulations, optimal substructure, space-optimized state variables | ⏳ Queued |
 | **14** | [2-D Dynamic Programming](14_2d_dynamic_programming/) | 2 | 2D grid pathing, longest common subsequence table transitions | ⏳ Queued |
