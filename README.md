@@ -22,7 +22,7 @@ An active-learning, test-driven curriculum designed to master the **Blind 75** a
 | **12** | [Advanced Graphs](12_advanced_graphs/) | 1 | Topological sort with lexicographical dependency constraints (Alien Dictionary) | 🟢 Complete (1/1) |
 | **13** | [1-D Dynamic Programming](13_1d_dynamic_programming/) | 10 | Recurrence formulations, optimal substructure, space-optimized state variables | 🟢 Complete (10/10) |
 | **14** | [2-D Dynamic Programming](14_2d_dynamic_programming/) | 2 | 2D grid pathing, longest common subsequence table transitions | 🟢 Complete (2/2) |
-| **15** | [Greedy](15_greedy/) | 2 | Local optimal choice, Kadane's maximum subarray, reachable index frontiers | ⏳ Queued |
+| **15** | [Greedy](15_greedy/) | 2 | Local optimal choice, Kadane's maximum subarray, reachable index frontiers | 🟢 Complete (2/2) |
 | **16** | [Intervals](16_intervals/) | 5 | Interval merging, non-overlapping scheduling, sweep-line room allocation | ⏳ Queued |
 | **17** | [Math & Geometry](17_math_and_geometry/) | 3 | In-place matrix rotations, coordinate boundary stepping, in-place state flags | ⏳ Queued |
 | **18** | [Bit Manipulation](18_bit_manipulation/) | 5 | Bitwise XOR cancellation, bit shifts, Hamming weight, 32-bit integer arithmetic | ⏳ Queued |
